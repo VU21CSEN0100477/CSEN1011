@@ -1,0 +1,6 @@
+Algorithm to find whether a number is even or odd-
+
+Step 1:Start
+Step 2:Accept the number
+Step 3:Divide the number with 2, if the remainder is 0 it is even or else it's odd
+Step 4:Stop
