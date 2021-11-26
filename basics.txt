@@ -2,3 +2,4 @@ Basics-
 
 GCC~ GNU C compiler{GNU Compiler Collections which is used to compile mainly C and C++ language.}
 ./a.out{to view the output}
+flag~ this is a boolean variable i raptor
