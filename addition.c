@@ -1,21 +1,14 @@
-#include <iostream>
-#include <string>
+#include <stdio.h>
+int main() {    
 
-using namespace std;
-int main()
-{
-   string raptor_prompt_variable_zzyz;
-   ?? b;
-   ?? result;
-   ?? a;
+    int number1, number2, sum;
+    
+    printf("Enter two integers: ");
+    scanf("%d %d", &number1, &number2);
 
-   raptor_prompt_variable_zzyz ="Enter first number- ";
-   cout << raptor_prompt_variable_zzyz << endl;
-   cin >> a;
-   raptor_prompt_variable_zzyz ="Enter second number- ";
-   cout << raptor_prompt_variable_zzyz << endl;
-   cin >> b;
-   result =a+b;
-   cout << "The result of the addition operation is"+result << endl;
-   return 0;
+    // calculating sum
+    sum = number1 + number2;      
+    
+    printf("%d + %d = %d", number1, number2, sum);
+    return 0;
 }
