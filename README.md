@@ -16,3 +16,4 @@
 [subjects.c](https://github.com/shivakumar477/CSEN1011/blob/2c5257a21ece4c4745d48bc119e693f6bb214246/subjects.c)<br />
 [basics.txt](https://github.com/shivakumar477/CSEN1011/blob/eb75b4fa18b0c1d7c104d51ea650c821cd50173e/basics.txt)<br />
 [armstrong.c](https://github.com/shivakumar477/CSEN1011/blob/b7ef79d74485f3af1751a04c16bb35213a833ead/armstrong.c)<br />
+[perfect.c](https://github.com/shivakumar477/CSEN1011/blob/ac94677bf219905062b75db7ea88e993b6dfe65b/perfect.c)<br />
