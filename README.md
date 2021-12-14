@@ -18,3 +18,4 @@
 [armstrong.c](https://github.com/shivakumar477/CSEN1011/blob/b7ef79d74485f3af1751a04c16bb35213a833ead/armstrong.c)<br />
 [perfect.c](https://github.com/shivakumar477/CSEN1011/blob/ac94677bf219905062b75db7ea88e993b6dfe65b/perfect.c)<br />
 [fibonacci.c](https://github.com/shivakumar477/CSEN1011/blob/8097509c3b288b6eb14cb69b987bf887c94c8314/fibonacci.c)<br />
+[reverse.cpp](https://github.com/shivakumar477/CSEN1011/blob/cb82bfe8118c1a09ead16d05f5f3b539159105d9/reverse.cpp)<br />
