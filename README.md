@@ -25,3 +25,4 @@
 [pascal.c](https://github.com/shivakumar477/CSEN1011/blob/607d56090749f9c4c3b1cc9a3ed499c6a3874272/pascal.c)<br />
 [floyd.c](https://github.com/shivakumar477/CSEN1011/blob/71153f03aae5b21ec278da3e8a9d86dd122ef348/floyd.c)<br />
 [fullpyraofnumbers.cpp](https://github.com/shivakumar477/CSEN1011/blob/058e6f885613f660d1dedc6cb6dccc486eb02c11/fullpyraofnumbers.cpp)<br/>
+[swapfunc.cpp](https://github.com/shivakumar477/CSEN1011/blob/5af23c2225a6abbbf76b121e41a30be71bfd2c53/swapfunc.cpp)<br/>
