@@ -1,6 +1,6 @@
 # CSEN1011
 
-##Module-1
+## Module-1
 [Converter.c](https://github.com/shivakumar477/CSEN1011/blob/d2db5d05163edc738b5a58ab610eb816462ddfa2/Converter.c)<br />
 [SIandCI.c](https://github.com/shivakumar477/CSEN1011/blob/2148076884092d35bb00976dd014bca980f3ce60/SIandCI.c)<br />
 [addition.c](https://github.com/shivakumar477/CSEN1011/blob/b663c1b62f8bdc96ae5b3d62966230c52e076f3b/addition.c)<br />
@@ -16,7 +16,7 @@
 [simpleinterest.c](https://github.com/shivakumar477/CSEN1011/blob/696dd3c88a29b0d15191ca4f69c75953c2cb3a20/simpleinterest.c)<br />
 [subjects.c](https://github.com/shivakumar477/CSEN1011/blob/2c5257a21ece4c4745d48bc119e693f6bb214246/subjects.c)<br />
 [basics.txt](https://github.com/shivakumar477/CSEN1011/blob/eb75b4fa18b0c1d7c104d51ea650c821cd50173e/basics.txt)<br />
-##Module-2
+## Module-2
 [armstrong.c](https://github.com/shivakumar477/CSEN1011/blob/b7ef79d74485f3af1751a04c16bb35213a833ead/armstrong.c)<br />
 [perfect.c](https://github.com/shivakumar477/CSEN1011/blob/ac94677bf219905062b75db7ea88e993b6dfe65b/perfect.c)<br />
 [fibonacci.c](https://github.com/shivakumar477/CSEN1011/blob/8097509c3b288b6eb14cb69b987bf887c94c8314/fibonacci.c)<br />
