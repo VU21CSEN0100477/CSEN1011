@@ -32,3 +32,9 @@
 [oddneven.rap](https://github.com/shivakumar477/CSEN1011/blob/1654785acab7bfed08a06a5d24ccbb6951e70932/oddneven.rap)<br />
 [addition.rap](https://github.com/shivakumar477/CSEN1011/blob/b663c1b62f8bdc96ae5b3d62966230c52e076f3b/addition.rap)<br />
 [Changing%20case.rap](https://github.com/shivakumar477/CSEN1011/blob/1280936b394584478910be7de763e15b88bb047d/Changing%20case.rap)<br />
+[Collazt.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Collazt.rap)<br />
+[Factorial.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Factorial.rap)<br />
+[Fibonacci.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Fibonacci.rap)<br />
+[Prime%20rotation.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Prime%20rotation.rap)<br />
+[Sum%20Fibonacci.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Sum%20Fibonacci.rap)<br />
+[Sum%20factorial.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Sum%20factorial.rap)<br />
