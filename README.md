@@ -31,3 +31,4 @@
 [primeorcomposite.rap](https://github.com/shivakumar477/CSEN1011/blob/2f6eb69a5b2a73893a8193809b0868755cad4040/primeorcomposite.rap)<br />
 [oddneven.rap](https://github.com/shivakumar477/CSEN1011/blob/1654785acab7bfed08a06a5d24ccbb6951e70932/oddneven.rap)<br />
 [addition.rap](https://github.com/shivakumar477/CSEN1011/blob/b663c1b62f8bdc96ae5b3d62966230c52e076f3b/addition.rap)<br />
+[Changing%20case.rap](https://github.com/shivakumar477/CSEN1011/blob/1280936b394584478910be7de763e15b88bb047d/Changing%20case.rap)<br />
