@@ -27,10 +27,10 @@
 [swapfunc.cpp](https://github.com/shivakumar477/CSEN1011/blob/5af23c2225a6abbbf76b121e41a30be71bfd2c53/swapfunc.cpp)<br/>
 [swapfuncwithinputs.cpp](https://github.com/shivakumar477/CSEN1011/blob/6c79b150644ec23655070a06e74c7c2325ad9244/swapfuncwithinputs.cpp)<br/>
 ## Raptor
-[simplecalculator.rap](https://github.com/shivakumar477/CSEN1011/blob/2dd0761bf6f8fa3b254112f4cd151c8ed0dc3e53/simplecalculator.rap)<br/>
 [primeorcomposite.rap](https://github.com/shivakumar477/CSEN1011/blob/2f6eb69a5b2a73893a8193809b0868755cad4040/primeorcomposite.rap)<br />
 [oddneven.rap](https://github.com/shivakumar477/CSEN1011/blob/1654785acab7bfed08a06a5d24ccbb6951e70932/oddneven.rap)<br />
 [addition.rap](https://github.com/shivakumar477/CSEN1011/blob/b663c1b62f8bdc96ae5b3d62966230c52e076f3b/addition.rap)<br />
+[simplecalculator.rap](https://github.com/shivakumar477/CSEN1011/blob/2dd0761bf6f8fa3b254112f4cd151c8ed0dc3e53/simplecalculator.rap)<br/>
 [Changing%20case.rap](https://github.com/shivakumar477/CSEN1011/blob/1280936b394584478910be7de763e15b88bb047d/Changing%20case.rap)<br />
 [Collazt.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Collazt.rap)<br />
 [Factorial.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Factorial.rap)<br />
