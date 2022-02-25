@@ -39,4 +39,4 @@
 [Sum%20Fibonacci.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Sum%20Fibonacci.rap)<br />
 [Sum%20factorial.rap](https://github.com/shivakumar477/CSEN1011/blob/c25258b63f1a8ba1c30ce02a855ddd599465e7f1/Sum%20factorial.rap)<br />
 ## Sem
-[Semend3.c](https://github.com/shivakumar477/CSEN1011/blob/50fdc4c29bd94922681f6c18f6fd12f9c326ebfe/Semend3.c)<br />
+[Semend3.c](https://github.com/shivakumar477/CSEN1011/blob/82e8581ee352ccddc373be0b741557e3646f19bf/Semend3.c)<br />
