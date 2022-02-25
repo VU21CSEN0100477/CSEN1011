@@ -21,7 +21,7 @@ return 0;
 int j=0;
 while(n[i].mob[j]!='\0')
 {
-if(n[i].mobile_number[j]>='0' && n[i].mobile_number[j]<='9')
+if(n[i].mob[j]>='0' && n[i].mob[j]<='9')
 j+=1;
 else{
 printf("Invalid entry");
